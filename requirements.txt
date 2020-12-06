@@ -1,8 +1,5 @@
-flask
-flask-wtf
-numpy
-pandas
-gensim
-gunicorn
-joblib
-sklearn
+pandas==1.1.4
+tensorflow==2.1.0
+WTForms==2.3.3
+Flask==1.1.2
+numpy==1.19.2
