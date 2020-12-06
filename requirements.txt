@@ -1,0 +1,8 @@
+flask
+flask-wtf
+numpy
+pandas
+gensim
+gunicorn
+joblib
+sklearn

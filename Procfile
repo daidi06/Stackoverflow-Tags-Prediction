@@ -1,0 +1,1 @@
+web: gunicorn stackoverflow_prediction:app
